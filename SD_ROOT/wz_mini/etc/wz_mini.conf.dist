@@ -99,6 +99,7 @@ ENABLE_CAR_DRIVER="false"
 ENABLE_LOCAL_DNS="false"
 ENABLE_CRONTAB="false"
 ENABLE_AUTO_BIND="false"
+ENABLE_ICAMERA_PATCH="false"
 
 #####DEBUG#####
 #drops you to a shell via serial, doesn't load app_init.sh
